@@ -1,4 +1,4 @@
-# 🌸 Orchids Website Cloner
+# 🌸 Website Cloner
 
 AI-powered website cloning application that recreates any website with modern design.
 
