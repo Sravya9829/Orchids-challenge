@@ -114,6 +114,4 @@ ORCHIDS-CHALLENGE/
 2. Visit `http://localhost:8000/docs` to see if the backend is working
 3. Check your browser's developer tools (F12) for any errors
 
----
 
-Made for the Orchids SWE Internship with ❤️
